@@ -17,6 +17,9 @@
                             <li class="nav-item">
                                 <router-link class="nav-link" active-class="active" to="/pag1">Pag1</router-link>
                             </li>
+                             <li class="nav-item">
+                                <router-link class="nav-link" active-class="active" to="/pag2">Pag2</router-link>
+                            </li>
                         </ul>
                         <form class="d-flex" role="search">
                             <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search" />
