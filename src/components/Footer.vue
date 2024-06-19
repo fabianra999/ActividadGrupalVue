@@ -4,7 +4,7 @@
       <div class="container d-flex justify-content-between align-items-center">
         <h3>Desarrollo Web con Frameworks Front-end</h3>
         <div class="d-flex flex-column">
-          <span>Ana María</span>
+          <span>Ana María Urrea Silva</span>
           <span>Fabian</span>
           <span>Juan David Cardona Carmona</span>
         </div>
